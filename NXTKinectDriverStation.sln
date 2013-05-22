@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXTKinectConsole", "MindsquallsNXT\NXTKinectConsole.csproj", "{418F994E-17FA-4A39-ABC3-BA6707A3C232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXTKinectDriverStation", "NXTKinectDriverStation\NXTKinectDriverStation.csproj", "{98195964-4BEB-4B05-B0DC-8023B573EA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418F994E-17FA-4A39-ABC3-BA6707A3C232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418F994E-17FA-4A39-ABC3-BA6707A3C232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418F994E-17FA-4A39-ABC3-BA6707A3C232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418F994E-17FA-4A39-ABC3-BA6707A3C232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98195964-4BEB-4B05-B0DC-8023B573EA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98195964-4BEB-4B05-B0DC-8023B573EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98195964-4BEB-4B05-B0DC-8023B573EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98195964-4BEB-4B05-B0DC-8023B573EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
